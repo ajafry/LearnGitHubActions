@@ -2,4 +2,4 @@
 
 This repository is a playground for learning GitHub actions.
 
-If the code in this repository works, it was written by me. On the off chance that it does not work, then it was probably someone else's fault.
+If the code in this repository works, it was written by me. On the off chance that it does not work, then it is probably someone else's fault.
